@@ -20,8 +20,7 @@ This guide contains conceptual questions and answers focused on understanding ag
 
 👉 **View the Canva presentation here:**  
 
-![Click to View](https://www.canva.com/design/DAGqsTFUg7s/nuz97rO4sP8xGtuj3t27VQ/edit?utm_content=DAGqsTFUg7s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
+🔗 [OpenAI Agents SDK Q\A – Canva Presentation](https://www.canva.com/design/DAGqsTFUg7s/nuz97rO4sP8xGtuj3t27VQ/edit?utm_content=DAGqsTFUg7s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 Explore each topic in a visual format to strengthen your conceptual foundation!
 
 ---
