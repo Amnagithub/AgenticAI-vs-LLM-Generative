@@ -65,5 +65,7 @@ Runner(model=OpenAIChatCompletionsModel(...))
 - ✅ Best for small/simple projects.
 
 ```python
+with function:
 
-OPENAI_API_KEY=""
+set_default_openai_api("chat_completions")
+set_default_openai_client(client)
