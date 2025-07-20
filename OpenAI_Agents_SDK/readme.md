@@ -42,6 +42,10 @@ Explore each topic in a visual format to strengthen your conceptual foundation!
 
 ---
 
-📌 **Contributor:** *Amna Saif*  
+📌 **Contributor:** *Amna Saif*
+
+**[GitHub](https://github.com/Amnagithub)**
+
+**[LinkdIn](https://www.linkedin.com/in/amna-kh-0507532b4/)**  
 
 ---

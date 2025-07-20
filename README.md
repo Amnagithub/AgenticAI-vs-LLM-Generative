@@ -1,4 +1,4 @@
-# 🌟 Agentic AI vs. LLM Generative
+# 🌟 Agentic AI vs. LLM Generative AI
 
 A visual and conceptual walkthrough on how **Agentic AI** differs from **LLMs** and **Generative AI**.
 
@@ -19,7 +19,7 @@ This presentation explains:
 
 👉 **Click below to open the Canva presentation:**
 
-🔗 [Agentic AI vs LLM Generative – Canva Presentation](https://www.canva.com/design/DAGpCVlihUA/RjjTN5E4SKF3p1f5cyqU6w/edit?utm_content=DAGpCVlihUA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+🔗 [Agentic AI vs LLM Generative AI – Canva Presentation](https://www.canva.com/design/DAGpCVlihUA/RjjTN5E4SKF3p1f5cyqU6w/edit?utm_content=DAGpCVlihUA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
@@ -28,6 +28,3 @@ This presentation explains:
 ✅ Presentation Completed  
 ✅ Shared on Canva  
 ⬜️ Optional: Export as PDF or video
-
-
-

@@ -1,6 +1,7 @@
 # 🌟 OpenAI Agents using Google Gemini Model
 
 🔗 **Useful Links:**
+
 - [OpenAI Agents Docs](https://openai.github.io/openai-agents-python/)
 - [OpenAI Agents Model Configs](https://openai.github.io/openai-agents-python/models/)
 - [Google Gemini API (OpenAI Compatible)](https://ai.google.dev/gemini-api/docs/openai)
@@ -44,8 +45,8 @@
 - ✅ Ideal for **multi-agent workflows** where each agent has a unique role.
 
 ```python
-agent = Agent(model=OpenAIChatCompletionsModel(...))
-
+agent = Agent(model=OpenAIChatCompletionsModel(...)) 
+```
 
 ### 2️⃣ Runner Level – Default for All Agents
 
@@ -56,7 +57,7 @@ agent = Agent(model=OpenAIChatCompletionsModel(...))
 ```python
 
 Runner(model=OpenAIChatCompletionsModel(...))
-
+```
 
 ### 3️⃣ Global Level – Project-wide Settings
 
@@ -64,8 +65,11 @@ Runner(model=OpenAIChatCompletionsModel(...))
 - 🧩 All agents and runners inherit this unless overridden.
 - ✅ Best for small/simple projects.
 
+**with function:**
+
 ```python
 with function:
 
 set_default_openai_api("chat_completions")
 set_default_openai_client(client)
+```

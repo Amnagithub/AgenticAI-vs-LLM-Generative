@@ -15,7 +15,7 @@ OpenRouter offers:
 
 ## 🛠️ Support for Function Calling
 
-OpenRouter **supports function calling (tool use)**. This allows AI models to decide when and how to call external tools (e.g., weather APIs or calculators), making agents more useful in real-world applications.
+OpenRouter **supports function calling (tool use)**.This allows AI models to decide when and how to call external tools (e.g., weather APIs or calculators), making agents more useful in real-world applications.
 
 ---
 
@@ -56,3 +56,7 @@ Install OpenAI Agents Dep.
 ```bash
 
 pip install -Uq openai-agents
+
+
+
+

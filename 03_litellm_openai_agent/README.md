@@ -14,19 +14,20 @@
 Install the required SDKs:
 
 ```bash
-
 uv add install openai-agents[litellm]
 
 ---- or -----
 
 pip install openai-agents
 
-pip install litellm
+pip install litellm 
+
+```
 
 🔗 References:
 
-- 🧠 OpenAI Agents Python SDK https://openai.github.io/openai-agents-python/ Docs
+- 🧠[OpenAI Agents Python SDK](https://openai.github.io/openai-agents-python/Docs)
 
-- 🔗 Gemini OpenAI-Compatible API https://ai.google.dev/gemini-api/docs/openai
+- 🔗[Gemini OpenAI-Compatible API](https://ai.google.dev/gemini-api/docs/openai)
 
-- 📚 LiteLLM GitHub https://github.com/BerriAI/litellm
+- 📚[LiteLLM GitHub](https://github.com/BerriAI/litellm)
